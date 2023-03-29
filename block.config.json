@@ -1,0 +1,13 @@
+{
+  "name": "backendBlock11",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Sahilk111/backendBlock11",
+    "ssh": "git@github.com:Sahilk111/backendBlock11.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
